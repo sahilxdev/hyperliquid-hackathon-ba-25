@@ -1,6 +1,6 @@
 # Build What’s Next on HyperEVM
 
-Welcome to the **HyperEVM Hackathon** — a 48-hour sprint to **build, create, and grow the Hyperliquid ecosystem**.
+Welcome to the **HyperEVM Hackathon** — a 24-hour sprint to **build, create, and grow the Hyperliquid ecosystem**.
 Whether you’re writing smart contracts, designing integrations, or sparking cultural movements — this is your chance to **shape the future of HyperEVM**.
 
 ---
@@ -9,7 +9,7 @@ Whether you’re writing smart contracts, designing integrations, or sparking cu
 
 | Detail          | Info                                                 |
 | --------------- | ---------------------------------------------------- |
-| **Duration**    | 48 hours                                             |
+| **Duration**    | 24 hours                                             |
 | **Access**      | 24/7 venue access (secured overnight)                |
 | **Teams**       | Up to 5 members                                      |
 | **Submissions** | Pull Request (PR) to this repository before deadline |
