@@ -5,7 +5,7 @@ Whether you’re writing smart contracts, designing integrations, or sparking cu
 
 ---
 
-## Hackathon Details
+## Hackathon Detailss
 
 | Detail          | Info                                                 |
 | --------------- | ---------------------------------------------------- |
